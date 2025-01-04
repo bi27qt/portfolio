@@ -63,12 +63,6 @@
             },
             {
                 "type": "Link",
-                "label": "Blog",
-                "url": "/blog",
-                "altText": ""
-            },
-            {
-                "type": "Link",
                 "label": "GitHub",
                 "url": "https://https://github.com/bi27qt",
                 "altText": "GitHub Profile"
