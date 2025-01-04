@@ -65,7 +65,7 @@
         ],
         "contacts": {
             "type": "ContactBlock",
-            "title": "Contact details",
+            "title": "",
             "phoneNumber": "",
             "phoneAltText": "",
             "email": "liambijuprofessional@gmail.com",
