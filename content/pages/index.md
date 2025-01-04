@@ -18,7 +18,7 @@ sections:
       of Sunderland
     subtitle: >-
       This portfolio consists of projects I have completed over the three year
-      duration of my course.
+      duration of my course. Scroll to view my projects.
     styles:
       self:
         height: auto
